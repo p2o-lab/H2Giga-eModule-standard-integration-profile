@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+authors:
+- family-names: "Lorenz"
+  given-names: "Julius"
+  orcid: "https://orcid.org/0000-0001-7124-4844"
+title: "H2Giga-eModule-standard-integration-profile"
+version: 1.0.0
+date-released: 2024-05-15
+url: "https://github.com/p2o-lab/H2Giga-eModule-standard-integration-profile"
