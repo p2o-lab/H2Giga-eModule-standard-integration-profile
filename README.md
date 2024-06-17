@@ -21,7 +21,7 @@ Over and above the legal restrictions imposed by this license, if you use this s
 
 and to the model itself
 
-`eModule. H2Giga-eModule-standard-integration-profile, v1.0.0 (2024). https://github.com/p2o-lab/H2Giga-eModule-standard-integration-profile.`
+`eModule. H2Giga-eModule-standard-integration-profile, v1.1.0 (2024). https://github.com/p2o-lab/H2Giga-eModule-standard-integration-profile.`
 
 
 or (ideally) both.

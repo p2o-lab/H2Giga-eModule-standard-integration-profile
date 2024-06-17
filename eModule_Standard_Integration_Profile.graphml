@@ -370,7 +370,7 @@
                   <y:Geometry height="32.71140454154238" width="184.03307539289563" x="1550.0" y="2711.023806625875"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.34765625" x="71.34270957144781" xml:space="preserve" y="3.0">CapEx</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.34765625" x="71.34270957144781" xml:space="preserve" y="7.005116333271417">CapEx</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -385,7 +385,7 @@
                   <y:Geometry height="32.71140454154238" width="184.03307539289563" x="1550.0" y="2770.033791739033"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.34375" x="51.34466269644781" xml:space="preserve" y="3.0">DiscountRate</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.34375" x="51.34466269644781" xml:space="preserve" y="7.005116333271417">DiscountRate</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -785,7 +785,7 @@ Internal Structure &amp; Subcomponents are optional included as part of Technica
               <y:Geometry height="32.71140454154249" width="243.23227992318482" x="728.532666469366" y="2729.3405667605784"/>
               <y:Fill color="#BDB992" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.349609375" x="98.94133527409241" xml:space="preserve" y="3.0">Invoice</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.349609375" x="98.94133527409235" xml:space="preserve" y="7.005116333271417">Invoice</y:NodeLabel>
               <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                 <y:AttributeLabel xml:space="preserve"/>
                 <y:MethodLabel xml:space="preserve"/>
@@ -997,7 +997,7 @@ footprint: 'm2'</y:AttributeLabel>
                       <y:Geometry height="30.332763736342656" width="301.97678662545195" x="1716.8716552377587" y="150.4382066946329"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.654296875" x="60.661244875225975" xml:space="preserve" y="3.0">Change Setpoint of Production</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="140.67578125" x="80.65050268772598" xml:space="preserve" y="3.0">Change ProductionRate</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -1042,7 +1042,7 @@ footprint: 'm2'</y:AttributeLabel>
                       <y:Geometry height="30.350495663157858" width="301.97678662545195" x="2028.4496357382595" y="65.81661841838982"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="164.001953125" x="68.98741675022598" xml:space="preserve" y="3.0">Complete/Finish Production</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.3359375" x="88.32042456272598" xml:space="preserve" y="3.0">Complete Production</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -1057,7 +1057,7 @@ footprint: 'm2'</y:AttributeLabel>
                       <y:Geometry height="30.350495663157858" width="301.97678662545195" x="2028.4496357382595" y="106.84823480473213"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="221.353515625" x="40.311635500225975" xml:space="preserve" y="3.0">Resume Production after Hot-Standby</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="233.986328125" x="33.995229250225975" xml:space="preserve" y="3.0">Change from Hot-Standby to Production</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -1392,6 +1392,21 @@ footprint: 'm2'</y:AttributeLabel>
                     </y:UMLNoteNode>
                   </data>
                 </node>
+                <node id="n1::n3::n8::n15">
+                  <data key="d4" xml:space="preserve"/>
+                  <data key="d6">
+                    <y:UMLClassNode>
+                      <y:Geometry height="51.3389930867927" width="163.62222420108492" x="2243.827564157257" y="425.00042445552725"/>
+                      <y:Fill color="#FFFF00" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="136.673828125" x="13.47419803804246" xml:space="preserve" y="3.0">CurrentProductionRate</y:NodeLabel>
+                      <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
+                        <y:AttributeLabel xml:space="preserve">unit: '%'</y:AttributeLabel>
+                        <y:MethodLabel xml:space="preserve"/>
+                      </y:UML>
+                    </y:UMLClassNode>
+                  </data>
+                </node>
               </graph>
             </node>
             <node id="n1::n3::n9" yfiles.foldertype="group">
@@ -1430,7 +1445,7 @@ footprint: 'm2'</y:AttributeLabel>
                       <y:Geometry height="32.71140454154249" width="243.23227992318482" x="2637.9023376119826" y="843.284760943041"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.65625" x="62.28801496159241" xml:space="preserve" y="3.0">Starting (Cold-Start)</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="115.322265625" x="63.95500714909241" xml:space="preserve" y="3.0">Starting(Cold-Start)</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -1781,7 +1796,7 @@ Just visible (ProcessControlSystem/Operator) values should be utilized/described
                   <y:Geometry height="63.973161271460526" width="199.0" x="1379.0411617776151" y="1714.980790087246"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.994140625" x="64.5029296875" xml:space="preserve" y="3.0">Information</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.994140625" x="64.5029296875" xml:space="preserve" y="22.635994698230206">Information</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve">type: 'opcua' | 'tcp' | ...</y:AttributeLabel>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1796,7 +1811,7 @@ Just visible (ProcessControlSystem/Operator) values should be utilized/described
                   <y:Geometry height="127.89492473728455" width="199.0" x="1379.0411617776151" y="1535.3997309979927"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.0078125" x="80.49609375" xml:space="preserve" y="3.0">Media</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.0078125" x="80.49609375" xml:space="preserve" y="54.59687643114239">Media</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve">mass-flow-range: 'kg/h'
 volume-flow-range: 'l/h' 'm3/h'
@@ -1815,7 +1830,7 @@ direction: ['in', 'out']</y:AttributeLabel>
                   <y:Geometry height="26.77311712400558" width="199.0" x="1137.1487280755264" y="1398.7819731445934"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="139.33984375" x="29.830078125" xml:space="preserve" y="3.0">Connection Description</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="139.33984375" x="29.830078125" xml:space="preserve" y="4.035972624502847">Connection Description</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1830,7 +1845,7 @@ direction: ['in', 'out']</y:AttributeLabel>
                   <y:Geometry height="63.973161271460526" width="199.0" x="1379.0411617776151" y="1419.7404353745633"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.681640625" x="77.1591796875" xml:space="preserve" y="3.0">Energy</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.681640625" x="77.1591796875" xml:space="preserve" y="22.635994698230206">Energy</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve">direction: ['in', 'out']
 rate: 'W'</y:AttributeLabel>
@@ -1877,7 +1892,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401839" y="1537.3829218618819"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.00390625" x="39.144534422169954" xml:space="preserve" y="3.0">Hydrogen</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.00390625" x="39.144534422169954" xml:space="preserve" y="6.672382364386749">Hydrogen</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1892,7 +1907,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401839" y="1574.0059994611308"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="50.476565672169954" xml:space="preserve" y="3.0">Water</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="50.476565672169954" xml:space="preserve" y="6.672382364386749">Water</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1907,7 +1922,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401836" y="1419.6089553900322"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.712890625" x="20.790042234669954" xml:space="preserve" y="3.0">Electrical Power</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.712890625" x="20.790042234669954" xml:space="preserve" y="6.672382364386749">Electrical Power</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1922,7 +1937,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401836" y="1458.2017172652666"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.009765625" x="54.141604734669954" xml:space="preserve" y="3.0">Heat</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.009765625" x="54.141604734669954" xml:space="preserve" y="6.672382364386749">Heat</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1937,7 +1952,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401839" y="1610.6290770603794"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.015625" x="45.138675047169954" xml:space="preserve" y="3.0">Oxygen</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.015625" x="45.138675047169954" xml:space="preserve" y="6.672382364386749">Oxygen</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1952,7 +1967,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="29.40952686388954" width="258.1834618364783" x="1736.9530059401836" y="1732.2626072910316"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.712890625" x="29.735285605739136" xml:space="preserve" y="3.0">External Communication Interface</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.712890625" x="29.735285605739136" xml:space="preserve" y="5.354177494444684">External Communication Interface</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1967,7 +1982,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="32.0459366037735" width="138.2929750943399" x="1751.9530059401839" y="1647.2521546596279"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.330078125" x="42.481448484669954" xml:space="preserve" y="3.0">Nitrogen</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.330078125" x="42.481448484669954" xml:space="preserve" y="6.672382364386749">Nitrogen</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -1984,7 +1999,7 @@ rate: 'W'</y:AttributeLabel>
               <y:Geometry height="32.16534065911952" width="243.23227992318476" x="725.4202124505264" y="1905.320534424324"/>
               <y:Fill color="#BDB992" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="232.041015625" x="5.595632149092381" xml:space="preserve" y="3.0">Certificates &amp; Declaration of Conformity</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="232.041015625" x="5.595632149092353" xml:space="preserve" y="6.732084392059733">Certificates &amp; Declaration of Conformity</y:NodeLabel>
               <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                 <y:AttributeLabel xml:space="preserve"/>
                 <y:MethodLabel xml:space="preserve"/>
@@ -1999,7 +2014,7 @@ rate: 'W'</y:AttributeLabel>
               <y:Geometry height="32.16534065911952" width="243.23227992318476" x="731.3883431195708" y="1275.396513587921"/>
               <y:Fill color="#BDB992" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.34375" x="92.94426496159238" xml:space="preserve" y="3.0">Structure</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.34375" x="92.94426496159235" xml:space="preserve" y="6.732084392059733">Structure</y:NodeLabel>
               <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                 <y:AttributeLabel xml:space="preserve"/>
                 <y:MethodLabel xml:space="preserve"/>
@@ -2299,7 +2314,7 @@ rate: 'W'</y:AttributeLabel>
                       <y:Geometry height="30.350495663157858" width="133.0" x="4258.0765875122415" y="82.64777209625656"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.333984375" x="50.8330078125" xml:space="preserve" y="3.0">IDLE</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.333984375" x="50.8330078125" xml:space="preserve" y="5.824661894078929">IDLE</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -2464,7 +2479,7 @@ rate: 'W'</y:AttributeLabel>
                       <y:Geometry height="30.350495663157858" width="133.0" x="4258.0765875122415" y="268.8922290683632"/>
                       <y:Fill color="#FFFF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.671875" x="30.1640625" xml:space="preserve" y="3.0">RESETTING</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.671875" x="30.1640625" xml:space="preserve" y="5.824661894078929">RESETTING</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -2539,7 +2554,7 @@ rate: 'W'</y:AttributeLabel>
                       <y:Geometry height="26.77311712400558" width="64.23446493003212" x="4391.228925175392" y="51.968022129345684"/>
                       <y:Fill color="#00FF00" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.33984375" x="16.44731059001606" xml:space="preserve" y="3.0">Start</y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.33984375" x="16.44731059001606" xml:space="preserve" y="4.03597262450279">Start</y:NodeLabel>
                       <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                         <y:AttributeLabel xml:space="preserve"/>
                         <y:MethodLabel xml:space="preserve"/>
@@ -2752,7 +2767,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="30.350495663157858" width="133.0" x="4243.0765875122415" y="656.0129845902961"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.04296875" x="11.478515625" xml:space="preserve" y="5.824661894078872">Process Value Out</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.04296875" x="11.478515625" xml:space="preserve" y="3.0">Process Value Out</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
@@ -2844,7 +2859,7 @@ rate: 'W'</y:AttributeLabel>
                   <y:Geometry height="30.350495663157858" width="133.0" x="4243.0765875122415" y="896.0129845902961"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="77.341796875" x="27.8291015625" xml:space="preserve" y="5.824661894078872">Enumeration</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="77.341796875" x="27.8291015625" xml:space="preserve" y="3.0">Enumeration</y:NodeLabel>
                   <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="" use3DEffect="true">
                     <y:AttributeLabel xml:space="preserve"/>
                     <y:MethodLabel xml:space="preserve"/>
