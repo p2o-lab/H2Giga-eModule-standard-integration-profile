@@ -1,6 +1,10 @@
 # H2Giga-eModule-standard-integration-profile
 Standard integration profile as part of the eModule research project (FKZ 03HY116A-E) of the H2Giga lead platform.
 
+Version
+=================
+1.2.0
+
 Usage
 =================
 We used and recommend the graph editor [yEd](https://www.yworks.com/products/yed).
@@ -21,7 +25,7 @@ Over and above the legal restrictions imposed by this license, if you use this s
 
 and to the model itself
 
-`eModule. H2Giga-eModule-standard-integration-profile, v1.1.0 (2024). https://github.com/p2o-lab/H2Giga-eModule-standard-integration-profile.`
+`eModule. H2Giga-eModule-standard-integration-profile, v1.2.0 (2025). https://github.com/p2o-lab/H2Giga-eModule-standard-integration-profile.`
 
 
 or (ideally) both.
